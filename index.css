@@ -1,0 +1,168 @@
+.sbg-img-1 {
+  background-image: url("snow1.png");
+  height: 100vh;
+
+  background-size: cover;
+}
+
+.sbg-img-2 {
+  background-image: url("peak.png");
+  height: 100vh;
+
+  background-size: cover;
+}
+
+.sbg-img-3 {
+  background-image: url("snow2.png");
+  height: 100vh;
+
+  background-size: cover;
+}
+
+.fbgcolor {
+  background-color: #404e6c;
+}
+
+.txt-history,
+.txt-team {
+  font-family: "Lato";
+  font-style: italic;
+}
+
+.LOSANGELES_MOUNTAINS {
+  font-size: 1.2rem;
+  font-family: "Bebas Neue";
+  color: rgb(77, 77, 77);
+  text-transform: uppercase;
+  line-height: 0.8;
+  text-align: left;
+  -moz-transform: matrix(8.61223977351529, 0, 0, 8.68890863484864, 0, 0);
+  -webkit-transform: matrix(8.61223977351529, 0, 0, 8.68890863484864, 0, 0);
+  -ms-transform: matrix(8.61223977351529, 0, 0, 8.68890863484864, 0, 0);
+  position: absolute;
+  left: 40vw;
+  top: 30vw;
+}
+
+.mountain {
+  font-size: 1.3rem;
+  color: #404e6c;
+}
+
+.history-container {
+  position: relative;
+}
+
+._01_ {
+  font-size: 11.264px;
+  font-family: "Oswald";
+  color: rgba(65, 79, 107, 0.502);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix(12.0413317551377, 0, 0, 12.0413317551377, 0, 0);
+  -webkit-transform: matrix(12.0413317551377, 0, 0, 12.0413317551377, 0, 0);
+  -ms-transform: matrix(12.0413317551377, 0, 0, 12.0413317551377, 0, 0);
+  position: absolute;
+  left: 70px;
+  top: 70px;
+  z-index: 86;
+}
+
+.history-text {
+  font-size: 50px;
+  font-family: "Oswald";
+  color: rgb(65, 79, 107);
+  font-weight: bold;
+  position: absolute;
+  left: 126px;
+  top: 40px;
+}
+
+.history-description {
+  position: absolute;
+  top: 132px;
+}
+
+.page-2 {
+  position: relative;
+}
+
+.img-container {
+  display: flex;
+  background-color: #3d4a61;
+  height: 170px;
+  padding: 12px 0px 10px 0px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  opacity: 0.8;
+  justify-content: center;
+  left: 0vw;
+}
+
+.img-container img {
+  opacity: 1;
+  margin-left: 5px;
+}
+
+.schedule-box {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.702;
+  position: absolute;
+  left: 365px;
+  top: 2273px;
+  width: 352px;
+  height: 229px;
+}
+
+.scheduleh2 {
+  font-size: 50px;
+  font-family: "Oswald";
+  font-weight: bold;
+  color: #404e6c;
+}
+
+.climb-container {
+  position: relative;
+}
+.txt02 {
+  font-size: 11.264px;
+  font-family: "Oswald";
+  color: rgba(65, 79, 107, 0.502);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix(12.0413317551377, 0, 0, 12.0413317551377, 0, 0);
+  -webkit-transform: matrix(12.0413317551377, 0, 0, 12.0413317551377, 0, 0);
+  -ms-transform: matrix(12.0413317551377, 0, 0, 12.0413317551377, 0, 0);
+  position: absolute;
+  left: 70px;
+  top: 70px;
+}
+.climb-description {
+  position: absolute;
+  top: 30px;
+  width: 60%;
+}
+
+.custom-mt160 {
+  margin-top: 160px;
+}
+
+.custom-bg-color {
+  background-color: #404e6c;
+}
+
+.mountain-2 {
+  margin-left: 50px !important;
+  font-family: "Oswald";
+  font-weight: bold;
+  color: #757f95;
+}
+
+.mountain-1 {
+  font-family: "Oswald";
+  font-weight: bold;
+  color: #757f95;
+}
